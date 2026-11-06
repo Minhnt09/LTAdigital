@@ -1,0 +1,4 @@
+import {Component} from '@angular/core';
+import {partnerAssets} from './partners.data';
+@Component({selector:'partner-marquee',standalone:true,template:`<div class="partner-ribbons" [class.ribbons-paused]="paused"><button class="ribbons-toggle" type="button" (click)="paused=!paused" [attr.aria-pressed]="paused" aria-label="Pause or resume partner animation">{{paused?'▶':'Ⅱ'}}</button>@for(row of rows;track $index){<div class="partner-ribbon"><div class="partner-track">@for(copy of copies;track copy){<div class="partner-set" [attr.aria-hidden]="copy===1?'true':null">@for(partner of row;track partner.name){<div class="legacy-logo" [class.logo-dark]="partner.dark"><img [src]="partner.src" [alt]="copy===0?partner.name:''" loading="lazy" width="240" height="120"></div>}</div>}</div></div>}</div>`})
+export class PartnerMarquee{paused=false;copies=[0,1];rows=[partnerAssets.slice(0,11),partnerAssets.slice(11,21),partnerAssets.slice(21)];}

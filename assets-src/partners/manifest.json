@@ -1,0 +1,219 @@
+[
+  {
+    "name": "iSMA Controlli",
+    "src": "/partners/isma-controlli.webp",
+    "category": "Infrastructure",
+    "original": "Biểu trưng iSMA CONTROLLI xanh đậm.png",
+    "dark": false
+  },
+  {
+    "name": "VTVgo",
+    "src": "/partners/vtvgo.webp",
+    "category": "Content",
+    "original": "Logo VTVgo hình học sắc nét.png",
+    "dark": false
+  },
+  {
+    "name": "VTVcab",
+    "src": "/partners/vtvcab.webp",
+    "category": "Content",
+    "original": "Logo VTVcab ba màu góc cạnh.png",
+    "dark": false
+  },
+  {
+    "name": "Viettel",
+    "src": "/partners/viettel.webp",
+    "category": "Telecom",
+    "original": "Logo Viettel đỏ cùng khẩu hiệu.png",
+    "dark": false
+  },
+  {
+    "name": "TV360",
+    "src": "/partners/tv360.webp",
+    "category": "Content",
+    "original": "Logo TV 360 đỏ đen sắc nét.png",
+    "dark": false
+  },
+  {
+    "name": "Vietnamobile",
+    "src": "/partners/vietnamobile.webp",
+    "category": "Telecom",
+    "original": "Logo Vietnamobile màu cam.png",
+    "dark": false
+  },
+  {
+    "name": "Bitel",
+    "src": "/partners/bitel.webp",
+    "category": "Telecom",
+    "original": "Logo bitel xanh ngọc-1.png",
+    "dark": false
+  },
+  {
+    "name": "Lumitel",
+    "src": "/partners/lumitel.webp",
+    "category": "Telecom",
+    "original": "Logo LUMITEL xanh ngọc với tia sáng.png",
+    "dark": false
+  },
+  {
+    "name": "Halotel",
+    "src": "/partners/halotel.webp",
+    "category": "Telecom",
+    "original": "Biểu trưng halotel cam tối giản.png",
+    "dark": false
+  },
+  {
+    "name": "VTC",
+    "src": "/partners/vtc.webp",
+    "category": "Content",
+    "original": "Biểu trưng VTC xanh nghiêng.png",
+    "dark": false
+  },
+  {
+    "name": "Viettel IDC",
+    "src": "/partners/viettel-idc.webp",
+    "category": "Telecom",
+    "original": "Logo Viettel IDC tối giản.png",
+    "dark": false
+  },
+  {
+    "name": "VinaPhone",
+    "src": "/partners/vinaphone.webp",
+    "category": "Telecom",
+    "original": "Biểu trưng Vinaphone xanh đặc trưng.png",
+    "dark": false
+  },
+  {
+    "name": "VMG Media Group",
+    "src": "/partners/vmg-media-group.webp",
+    "category": "Content",
+    "original": "Biểu trưng VMG Media Group.png",
+    "dark": false
+  },
+  {
+    "name": "Unitel",
+    "src": "/partners/unitel.webp",
+    "category": "Telecom",
+    "original": "Logo Unitel với ruy băng cam vàng.png",
+    "dark": false
+  },
+  {
+    "name": "Metfone",
+    "src": "/partners/metfone.webp",
+    "category": "Telecom",
+    "original": "Logo metfone xanh ngọc và cam.png",
+    "dark": false
+  },
+  {
+    "name": "MobiFone",
+    "src": "/partners/mobifone.webp",
+    "category": "Telecom",
+    "original": "Logo MobiFone xanh đỏ.png",
+    "dark": false
+  },
+  {
+    "name": "CDNetworks",
+    "src": "/partners/cdnetworks.webp",
+    "category": "Cloud",
+    "original": "Biểu trưng CDNetworks vòng liên kết đa sắc.png",
+    "dark": false
+  },
+  {
+    "name": "TikTok",
+    "src": "/partners/tiktok.webp",
+    "category": "Content",
+    "original": "Biểu trưng TikTok chính thức.png",
+    "dark": false
+  },
+  {
+    "name": "VEGA Corporation",
+    "src": "/partners/vega-corporation.webp",
+    "category": "Content",
+    "original": "Biểu trưng VEGA Corporation nền trong suốt.png",
+    "dark": false
+  },
+  {
+    "name": "ByteDance",
+    "src": "/partners/bytedance.webp",
+    "category": "Cloud",
+    "original": "Logo ByteDance xanh lam tối giản.png",
+    "dark": false
+  },
+  {
+    "name": "Vertiv",
+    "src": "/partners/vertiv.webp",
+    "category": "Infrastructure",
+    "original": "Logo VERTIV đen trên nền trong suốt.png",
+    "dark": false
+  },
+  {
+    "name": "VAST Data",
+    "src": "/partners/vast-data.webp",
+    "category": "Cloud",
+    "original": "Logo VAST tam giác cyan trắng.png",
+    "dark": true
+  },
+  {
+    "name": "Monty Mobile",
+    "src": "/partners/monty-mobile.webp",
+    "category": "Telecom",
+    "original": "Biểu tượng M của Monty Mobile.png",
+    "dark": false
+  },
+  {
+    "name": "K+",
+    "src": "/partners/kplus.webp",
+    "category": "Content",
+    "original": "Logo K đỏ xanh dấu cộng.png",
+    "dark": false
+  },
+  {
+    "name": "VDCA",
+    "src": "/partners/vdca.webp",
+    "category": "Content",
+    "original": "Logo VDCA Việt Nam.png",
+    "dark": false
+  },
+  {
+    "name": "Viettel Global",
+    "src": "/partners/viettel-global.webp",
+    "category": "Telecom",
+    "original": "Biểu trưng Viettel Global nền đỏ.png",
+    "dark": false
+  },
+  {
+    "name": "Movitel",
+    "src": "/partners/movitel.webp",
+    "category": "Telecom",
+    "original": "Biểu trưng Movitel màu cam.png",
+    "dark": false
+  },
+  {
+    "name": "Telsoft",
+    "src": "/partners/telsoft.webp",
+    "category": "Cloud",
+    "original": "Logo chữ TELSOFT đỏ và xanh lam.png",
+    "dark": false
+  },
+  {
+    "name": "Mytel",
+    "src": "/partners/mytel.webp",
+    "category": "Telecom",
+    "original": "Logo mytel hình núi màu cam.png",
+    "dark": false
+  },
+  {
+    "name": "Natcom",
+    "src": "/partners/natcom.webp",
+    "category": "Telecom",
+    "original": "Logo natcom với địa cầu dải màu.png",
+    "dark": false
+  },
+  {
+    "name": "Telemor",
+    "src": "/partners/telemor.webp",
+    "category": "Telecom",
+    "original": "Logo telemor xanh teal, nét cắt cong.png",
+    "dark": false
+  }
+]

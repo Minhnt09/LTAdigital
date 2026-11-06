@@ -1,0 +1,163 @@
+[
+  {
+    "original": "image36.png",
+    "asset": "/img/lta-logo.webp",
+    "purpose": "lta-logo",
+    "alt": "Ảnh minh họa lta logo",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image30.png",
+    "asset": "/img/team-collaboration.webp",
+    "purpose": "team-collaboration",
+    "alt": "Ảnh minh họa team collaboration",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image24.png",
+    "asset": "/img/modern-workspace.webp",
+    "purpose": "modern-workspace",
+    "alt": "Ảnh minh họa modern workspace",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image13.png",
+    "asset": "/img/future-city.webp",
+    "purpose": "future-city",
+    "alt": "Ảnh minh họa future city",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image38.png",
+    "asset": "/img/data-center.webp",
+    "purpose": "data-center",
+    "alt": "Ảnh minh họa data center",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image68.png",
+    "asset": "/img/technology-workspace.webp",
+    "purpose": "technology-workspace",
+    "alt": "Ảnh minh họa technology workspace",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image47.png",
+    "asset": "/img/meeting-room.webp",
+    "purpose": "meeting-room",
+    "alt": "Ảnh minh họa meeting room",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image48.png",
+    "asset": "/img/telecom-infrastructure.webp",
+    "purpose": "telecom-infrastructure",
+    "alt": "Ảnh minh họa telecom infrastructure",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image16.png",
+    "asset": "/img/cdn-network.webp",
+    "purpose": "cdn-network",
+    "alt": "Ảnh minh họa cdn network",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image27.png",
+    "asset": "/img/cloud-platform.webp",
+    "purpose": "cloud-platform",
+    "alt": "Ảnh minh họa cloud platform",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image34.png",
+    "asset": "/img/cloud-storage.webp",
+    "purpose": "cloud-storage",
+    "alt": "Ảnh minh họa cloud storage",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image29.png",
+    "asset": "/img/cyber-security.webp",
+    "purpose": "cyber-security",
+    "alt": "Ảnh minh họa cyber security",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image62.png",
+    "asset": "/img/ai-chatbot.webp",
+    "purpose": "ai-chatbot",
+    "alt": "Ảnh minh họa ai chatbot",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image64.png",
+    "asset": "/img/superapp.webp",
+    "purpose": "superapp",
+    "alt": "Ảnh minh họa superapp",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image58.png",
+    "asset": "/img/cloud-server.webp",
+    "purpose": "cloud-server",
+    "alt": "Ảnh minh họa cloud server",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image15.png",
+    "asset": "/img/digital-telecom.webp",
+    "purpose": "digital-telecom",
+    "alt": "Ảnh minh họa digital telecom",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image37.png",
+    "asset": "/img/ai-solutions.webp",
+    "purpose": "ai-solutions",
+    "alt": "Ảnh minh họa ai solutions",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image51.png",
+    "asset": "/img/api-network.webp",
+    "purpose": "api-network",
+    "alt": "Ảnh minh họa api network",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image60.png",
+    "asset": "/img/vas-platform.webp",
+    "purpose": "vas-platform",
+    "alt": "Ảnh minh họa vas platform",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image54.png",
+    "asset": "/img/ai-search.webp",
+    "purpose": "ai-search",
+    "alt": "Ảnh minh họa ai search",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image39.png",
+    "asset": "/img/ai-content.webp",
+    "purpose": "ai-content",
+    "alt": "Ảnh minh họa ai content",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image45.png",
+    "asset": "/img/ai-video.webp",
+    "purpose": "ai-video",
+    "alt": "Ảnh minh họa ai video",
+    "crop": "object-fit: cover"
+  },
+  {
+    "original": "image55.png",
+    "asset": "/img/infrastructure-equipment.webp",
+    "purpose": "infrastructure-equipment",
+    "alt": "Ảnh minh họa infrastructure equipment",
+    "crop": "object-fit: cover"
+  }
+]
