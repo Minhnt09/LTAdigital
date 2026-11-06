@@ -10,7 +10,7 @@ export class MotionService {
  const desktop=matchMedia('(min-width: 901px) and (hover:hover) and (pointer:fine)').matches;
  this.ctx=gsap.context(()=>{
  gsap.fromTo('h1',{opacity:0,y:25,clipPath:'inset(0 0 100% 0)'},{opacity:1,y:0,clipPath:'inset(0 0 0% 0)',duration:.9,ease:'power3.out'});
- document.querySelectorAll<HTMLElement>('[data-count]').forEach(el=>{const value=Number(el.dataset['count']),counter={value:0};gsap.to(counter,{value,duration:1.3,ease:'power2.out',onUpdate:()=>el.textContent=Math.round(counter.value).toString(),scrollTrigger:{trigger:el,start:'top 95%',once:true}})});
+ document.querySelectorAll<HTMLElement>('[data-count]').forEach(el=>{const value=Number(el.dataset['count']),counter={value:0};gsap.to(counter,{value,duration:1.3,ease:'power2.out',onUpdate:()=>el.textContent=Math.round(counter.value).toString(),scrollTrigger:{trigger:el,start:'top 85%',once:true}})});
  document.querySelectorAll('.section, .catalog-section, .philosophy').forEach(section=>{
  const headings=section.querySelectorAll('h2');if(headings.length)gsap.fromTo(headings,{opacity:0,y:24},{opacity:1,y:0,duration:.7,scrollTrigger:{trigger:section,start:'top 88%',once:true}});
  const targets=section.querySelectorAll('.capability-card,.catalog-card,.principle-grid article,.reason-grid article,.detail-points article,.flow-grid article,.contact-details>div');if(targets.length)gsap.fromTo(targets,{opacity:0,y:25},{opacity:1,y:0,duration:.65,stagger:.08,scrollTrigger:{trigger:section,start:'top 86%',once:true}});
