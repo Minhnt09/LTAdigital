@@ -27,7 +27,7 @@
             "inlineStyleLanguage": "scss",
             "styles": [
               "src/styles.scss",
-              "src/theme-refresh.scss", "src/lta-white.scss"
+              "src/theme-refresh.scss", "src/lta-white.scss", "src/subpages.scss", "src/services-refined.scss"
             ],
             "assets": [
               {

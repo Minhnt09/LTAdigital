@@ -1,1 +1,32 @@
-{"source":"https://ltadigital.com/","images":[{"original":"cloud-network.jpg","optimized":"/img/cloud-network.webp","url":"https://ltadigital.com/wp-content/uploads/2023/03/abstract-technology-background-cloud-computing-technology-concept-hi-tech-cloud-connection-technology-background-vector1.jpg"},{"original":"cloud-circuit.jpg","optimized":"/img/cloud-circuit.webp","url":"https://ltadigital.com/wp-content/uploads/2023/03/50958501.jpg"}]}
+{
+  "source": "https://ltadigital.com/",
+  "images": [
+    {
+      "original": "cloud-network.jpg",
+      "optimized": "/img/cloud-network.webp",
+      "url": "https://ltadigital.com/wp-content/uploads/2023/03/abstract-technology-background-cloud-computing-technology-concept-hi-tech-cloud-connection-technology-background-vector1.jpg"
+    },
+    {
+      "original": "cloud-circuit.jpg",
+      "optimized": "/img/cloud-circuit.webp",
+      "url": "https://ltadigital.com/wp-content/uploads/2023/03/50958501.jpg"
+    }
+  ],
+  "updated_home_assets": [
+    {
+      "original": "LTA-Vietnam-Office-at-Blue-Hour.png",
+      "optimized": "/img/lta-office-banner.webp",
+      "url": "https://ltadigital.com/wp-content/uploads/2026/11/LTA-Vietnam-Office-at-Blue-Hour.png"
+    },
+    {
+      "original": "LTA-logo-on-stone-reception-desk.png",
+      "optimized": "/img/lta-reception-banner.webp",
+      "url": "https://ltadigital.com/wp-content/uploads/2026/11/LTA-logo-on-stone-reception-desk.png"
+    },
+    {
+      "original": "LTA-Gioi-Thieu-Anh-1.webp",
+      "optimized": "/img/lta-about-original.webp",
+      "url": "https://ltadigital.com/wp-content/uploads/2026/11/LTA-Gioi-Thieu-Anh-1.webp"
+    }
+  ]
+}
